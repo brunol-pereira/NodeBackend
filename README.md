@@ -12,5 +12,5 @@ Through the development of this class I can highlight the application of some co
 
 More small learnings:
 - Array.from() - Converts a data structure to an Array
-- Spread Operator JS - return{id,*...data*, //spread operator Js
+- Spread Operator JS - return{id,**...data**, //spread operator Js
             }
