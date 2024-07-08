@@ -2,7 +2,7 @@ POST http://localhost:3333/videos
 Content-Type: application/json
 
 {
-    "title": "Video 01",
+    "title": "Video Caua - node",
     "description": "Esse e o primeiro video",
     "duration": 180
 }
@@ -16,7 +16,7 @@ GET http://localhost:3333/videos?search=node
 
 ###
 
-PUT http://localhost:3333/videos/e9937acf-787d-4ce5-8ab4-640534966ae4
+PUT http://localhost:3333/videos/cb5675f9-c18c-402c-a6f7-7b953d9eca9a
 Content-Type: application/json
 
 {
@@ -27,4 +27,4 @@ Content-Type: application/json
 
 ###
 
-DELETE http://localhost:3333/videos/2d384e47-bd38-434b-8619-4f620ba80a58
+DELETE http://localhost:3333/videos/5e60fc7a-b408-4207-bd2d-874861be1257
